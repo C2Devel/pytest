@@ -5,7 +5,7 @@
 
 Name:           python-%{pkgname}
 Version:        3.0.7
-Release:        CROC5%{?dist}
+Release:        ROCKIT6%{?dist}
 Summary:        Simple powerful testing with Python
 License:        MIT
 URL:            http://pytest.org
